@@ -1,0 +1,62 @@
+{
+  "application": "Builtloop Studio",
+  "original": [
+    "Apartment layout",
+    "Custom furniture geometry",
+    "Editor implementation",
+    "UI design",
+    "Garden olive tree geometry",
+    "Garden plot and edging"
+  ],
+  "cc0_assets": [
+    {
+      "name": "Modern arm chair 01",
+      "url": "https://polyhaven.com/a/modern_arm_chair_01"
+    },
+    {
+      "name": "Potted plant 01",
+      "url": "https://polyhaven.com/a/potted_plant_01"
+    },
+    {
+      "name": "Wood floor",
+      "url": "https://polyhaven.com/a/wood_floor"
+    },
+    {
+      "name": "Marble rock 02",
+      "url": "https://polyhaven.com/a/marble_rock_02"
+    },
+    {
+      "name": "Leafy Grass PBR texture",
+      "author": "Charlotte Baglioni",
+      "url": "https://polyhaven.com/a/leafy_grass"
+    }
+  ],
+  "asset_license": "https://polyhaven.com/license",
+  "fonts": [
+    {
+      "name": "IBM Plex Sans",
+      "license": "SIL Open Font License 1.1",
+      "source": "https://github.com/google/fonts/tree/main/ofl/ibmplexsans"
+    },
+    {
+      "name": "DM Sans (retained design candidate)",
+      "license": "SIL Open Font License 1.1",
+      "source": "https://github.com/google/fonts/tree/main/ofl/dmsans"
+    },
+    {
+      "name": "Cormorant Garamond",
+      "license": "SIL Open Font License 1.1",
+      "source": "https://github.com/google/fonts/tree/main/ofl/cormorantgaramond"
+    }
+  ],
+  "icons": {
+    "name": "Lucide",
+    "license": "ISC",
+    "source": "https://lucide.dev"
+  },
+  "reference": {
+    "name": "Roomtone",
+    "url": "https://madebysourasith-sudo.github.io/roomtone/",
+    "usage": "Interaction research. Reference source and assets are not shipped in this application."
+  }
+}
